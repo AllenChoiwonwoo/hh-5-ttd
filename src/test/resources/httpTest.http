@@ -1,0 +1,2 @@
+# 포인트 확인 테스트
+GET http://localhost:8080/point/15
